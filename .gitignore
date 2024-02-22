@@ -1,2 +1,7 @@
 .ipynb_checkpoints
 __pycache__
+duplicates
+study2data
+datafromstudy1
+*.csv
+.DS_Store
